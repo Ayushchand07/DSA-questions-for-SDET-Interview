@@ -5,6 +5,20 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "SwapTwoNumbers",
+            "request": "launch",
+            "mainClass": "SwapTwoNumbers",
+            "projectName": "DSA-questions-for-SDET-Interview_a787473a"
+        },
+        {
+            "type": "java",
+            "name": "ReverseInteger",
+            "request": "launch",
+            "mainClass": "ReverseInteger",
+            "projectName": "DSA-questions-for-SDET-Interview_a787473a"
+        },
+        {
             "type": "jdk",
             "request": "launch",
             "name": "Launch Java App"

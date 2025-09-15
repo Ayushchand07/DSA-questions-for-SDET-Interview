@@ -41,8 +41,5 @@ public class SwapTwoNumbers{
         System.out.println(p);
         System.out.println(q);
 
-
-
-
     }
 }
