@@ -8,7 +8,7 @@ public class ReverseInteger {
         int num = sc.nextInt();
 
         int reverseNumber = 0;
-        int lastDigit = 0;
+        int lastDigit;
 
         while(num!=0){
             lastDigit = num%10;
