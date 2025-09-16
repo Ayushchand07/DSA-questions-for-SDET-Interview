@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LengthOfLastWord",
+            "request": "launch",
+            "mainClass": "LengthOfLastWord",
+            "projectName": "DSA-questions-for-SDET-Interview_a787473a"
+        },
+        {
+            "type": "java",
             "name": "LargeFactorial",
             "request": "launch",
             "mainClass": "LargeFactorial",
