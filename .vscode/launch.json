@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MissingNumberInArray",
+            "request": "launch",
+            "mainClass": "MissingNumberInArray",
+            "projectName": "DSA-questions-for-SDET-Interview_a787473a"
+        },
+        {
+            "type": "java",
             "name": "PrintEvenLengthWordsFromString",
             "request": "launch",
             "mainClass": "PrintEvenLengthWordsFromString",
