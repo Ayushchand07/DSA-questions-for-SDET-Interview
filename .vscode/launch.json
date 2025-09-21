@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SecondLargestElement",
+            "request": "launch",
+            "mainClass": "SecondLargestElement",
+            "projectName": "DSA-questions-for-SDET-Interview_a787473a"
+        },
+        {
+            "type": "java",
             "name": "SumOfArray",
             "request": "launch",
             "mainClass": "SumOfArray",
